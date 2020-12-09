@@ -1,0 +1,13 @@
+#Required lib.-
+opencv
+numpy
+tensorflow
+keras
+
+#methods to install
+#run in cmd
+
+pip install numpy
+pip install Keras
+pip install tensorflow
+pip install opencv-python
